@@ -102,7 +102,7 @@
   <tr>
     <td>A-Helper</td>
     <td>2021.06 - 2021.09</td>
-    <td>c#, WPF</td>
+    <td>C#, WPF</td>
     <td>오픈마켓 해외 상품 소량 등록 프로그램</td>
   </tr>
   <tr>
