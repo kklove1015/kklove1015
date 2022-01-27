@@ -2,8 +2,9 @@
   
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=green&height=300&section=header&text=YUCHAN&fontSize=90&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=YUCHAN&fontSize=90&animation=fadeIn)
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkklove1015&count_bg=%230A592C&title_bg=%230C0000&icon=&icon_color=%23FFFFFF&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
 
@@ -38,7 +39,7 @@
   </ul>
 
 <h2> 기술 스택</h2>
-<h3> Program language </h3>
+<h3> Program language / FrameWork </h3>
 <div>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=Java&logoColor=white" height="25">
@@ -73,180 +74,73 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" height="25">
   </div>
+<h3> Server <h3>
+  <div>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" height="25">
+     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white" height="25">
+  </div>
 
-
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-                                                                                                
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
-
-<div align="center">
-
+  <h2> GIT Status </h2>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
 
-</div>
 
-## Features
+<table>
+  <th></th>
+  <th>기간</th>
+  <th>사용 언어</th>
+  <th>내용</th>
+  <tr>
+    <td>CASH DATA</td>
+    <td>2020.12 - 2021.02</td>
+    <td>C#, Winform, WPF, JS</td>
+    <td>오픈마켓 해외 상품 대량 등록 프로그램</td>
+  </tr>
+  <tr>
+    <td>A-Helper</td>
+    <td>2021.06 - 2021.09</td>
+    <td>c#, WPF</td>
+    <td>오픈마켓 해외 상품 소량 등록 프로그램</td>
+  </tr>
+  <tr>
+    <td>Liker</td>
+    <td>2021.09</td>
+    <td>C#, WPF</td>
+    <td>티스토리 좋아요 자동 조작</td>
+  </tr>
+  <tr>
+    <td>Jipper</td>
+    <td>2021.12</td>
+    <td>C#, WPF</td>
+    <td>네이버 블로그 사진 대량 다운로드 프로그램</td>
+  </tr>
+  <tr>
+    <td>Collector</td>
+    <td>2021.08</td>
+    <td>JavaScript</td>
+    <td>현재 페이지의 HTML을 스크래핑 하는 크롬 확장 프로그램</td>
+  </tr>
+  <tr>
+    <td>자취해보자</td>
+    <td>2019.06 - 2019.10</td>
+    <td>HTML,CSS,JQeury,JS</td>
+    <td>쇼핑몰 웹 개발</td>
+  </tr>
+  <tr>
+    <td>담다</td>
+    <td>2021.02 - 2021.09</td>
+    <td>HTML,CSS,JQuery,JS</td>
+    <td>쇼핑몰 웹 개발</td>
+  </tr>
+  <tr>
+    <td>Damin Library</td>
+    <td>2021.06 - 2022-01</td>
+    <td>C#</td>
+    <td>C#으로 프로그램 개발시 개발 속도를 향상 시켜 줄 확장 라이브러리</td>
+  </tr>
+  </table>
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
-## Tech
-
-Dillinger uses a number of open source projects to work properly:
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
 
 **Free Software, Hell Yeah!**
 
