@@ -66,6 +66,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" height="25" >
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" height="25">
   </div>
   <h3> DB </h3>
   <div>
