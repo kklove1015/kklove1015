@@ -81,10 +81,8 @@
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white" height="25">
   </div>
 
-  <h2> GIT Status </h2>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
-
+ 
+  <h2> 프로젝트 </h2>
 
 <table>
   <th></th>
@@ -142,6 +140,19 @@
   </table>
 
 
+   <h2> GIT Status </h2>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
+  
+  
+  <h2> Contact </h2>
+  <div>
+  <img src="https://img.shields.io/badge/kklove1015@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/jeremy920829@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/ljchany-#E4405F?style=flat-square&logo=Instagram&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Talend&logoColor=white" height="25">
+  </div>
+  
 **Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
