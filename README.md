@@ -149,11 +149,12 @@
   <div>
   <img src="https://img.shields.io/badge/kklove1015@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="25" >
   <img src="https://img.shields.io/badge/jeremy920829@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/ljchany-#E4405F?style=flat-square&logo=Instagram&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Talend&logoColor=white" height="25">
+    <a href="https://www.instagram.com/lj_chany" target="_blank">
+  <img src="https://img.shields.io/badge/lj_chany-E4405F?style=flat-square&logo=Instapaper&logoColor=white" height="25"></a>
   </div>
   
-**Free Software, Hell Yeah!**
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
