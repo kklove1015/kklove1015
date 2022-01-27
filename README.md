@@ -2,39 +2,79 @@
   
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=YUCHAN&fontSize=90&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=green&height=300&section=header&text=YUCHAN&fontSize=90&animation=fadeIn)
   
 </div>
 
 
-
-<div align="center">
- 
   <h2>소개</h2>
   <ul>
   <li>이름 : 김유찬</li>
+  <li>별명 : 은다민</li>
   <li>생년월일 : 1992.08.29</li>
   <li>성별 : 남</li>
-  <li>이름 : 김유찬</li>
   </ul>
+  <div>안녕하세요 ! 제 GIT을 방문해주셔서 감사합니다.</br>
+  저는 사실 15살부터 약 15년동안 음악을 전공하여 프로그램과 인연이 없었지만</br>
+  우연한 기회로 프로그래밍에 빠지게 되어 JAVA를 시작으로 C#이 주력인 소프트웨어 회사에 입사하여</br>
+  C#, WPF 및 스크래핑을 주로 다루는 어엿한 프로그래머가 되어가고 있습니다.</br>
+  그저 클론 코딩이 아닌 스스로 생각하며 발전하는 그런 프로그래머가 되고싶습니다.</br>
+  감사합니다 :D
+  </div>
   
+  <h2> 이력</h2>
+<ul>
+    <li>2016.10 - 2019.10 문화인 엔터테이먼트 : 밴드 AISLE 드럼/작곡/작사 활동</li>
+    <li>2019.04 - 2019.10 그린컴퓨터학원 : JAVA SPRING FRAMEWORK BACK-END 개발자 양성과정 수료</li>
+    <li>2019.10 HOW SOFT 입사 : </li>
+    <ul>
+    <li>2019.12 CASH DATA Project Start</li>
+      <li>2020.01 CASH DATA Launching</li>
+      <li>2020.01 사원 -> 주임 승진</li>
+      <li>2020.02 - 2020.05 CASH DATA 유지&보수 및 기능 추가 개발</li>
+      <li>2020.06 A-Helper Project Refactoring 참여</li>
+      <li>2020.09 HOW SOFT 퇴사</li>
+    </ul>
+  </ul>
+
+<h2> 기술 스택</h2>
+<h3> Program language </h3>
+<div>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white" height="25" >
+<img src="https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=Java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white" height="25">
+
 </div>
+<h3> MarkUp & UI </h3>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/WPF-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" height="25" >
+  </div>
+<h3> Tools </h3>
+<div>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" height="25" >
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio#20Code&logoColor=white" height="25" >
+   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" height="25" >
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white" height="25">
+  </div>
+  <h3> DB </h3>
+  <div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" height="25">
+  </div>
 
-<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
-
-</div>
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center"> Techs that I've used at least once</p>
-<div align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white" >
-<img src="https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-</div>                                                                                                                                 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
                                                                                                 
@@ -46,6 +86,13 @@ AngularJS-powered HTML5 Markdown editor.
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
+
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
+
+</div>
 
 ## Features
 
