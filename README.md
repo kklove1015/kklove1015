@@ -1,5 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=300section=header&text=KIM_YUCHAN&fontSize=70)
 
+  
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=YUCHAN&fontSize=90&animation=fadeIn)
+  
+</div>
+
+
+
+<div align="center">
+ 
+  <h2>소개</h2>
+  <ul>
+  <li>이름 : 김유찬</li>
+  <li>생년월일 : 1992.08.29</li>
+  <li>성별 : 남</li>
+  <li>이름 : 김유찬</li>
+  </ul>
+  
+</div>
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kklove1015&show_icons=true&theme=vue)
+
+</div>
 
 <h3 align="center">Tech Stack</h3>
 
