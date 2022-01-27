@@ -150,7 +150,7 @@
   <img src="https://img.shields.io/badge/kklove1015@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="25" >
   <img src="https://img.shields.io/badge/jeremy920829@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Talend&logoColor=white" height="25">
-    <a href="https://www.instagram.com/lj_chany" target="_blank">
+    <a href="https://www.instagram.com/lj_chany" target='_self'>
   <img src="https://img.shields.io/badge/lj_chany-E4405F?style=flat-square&logo=Instapaper&logoColor=white" height="25"></a>
   </div>
   
