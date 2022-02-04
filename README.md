@@ -126,13 +126,13 @@
   <tr>
     <td>자취해보자</td>
     <td>2019.06 - 2019.10</td>
-    <td>HTML,CSS,JQeury,JS</td>
+    <td>JavaSpring,HTML,CSS,JQeury,JS</td>
     <td>쇼핑몰 웹 개발</td>
   </tr>
   <tr>
     <td>담다</td>
     <td>2021.02 - 2021.09</td>
-    <td>HTML,CSS,JQuery,JS</td>
+    <td>Java,HTML,CSS,JQuery,JS</td>
     <td>쇼핑몰 웹 개발</td>
   </tr>
   <tr>
